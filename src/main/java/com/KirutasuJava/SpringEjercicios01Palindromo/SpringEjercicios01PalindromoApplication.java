@@ -8,6 +8,8 @@ public class SpringEjercicios01PalindromoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringEjercicios01PalindromoApplication.class, args);
+
+
 	}
 
 }
